@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-//Tal Aharon - 208458414
+//Tal Aharon
 
 /*
 * Reversi game - is a two players board game,
